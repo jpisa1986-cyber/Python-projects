@@ -1,15 +1,4 @@
-#Welcome Message: Greet the user and define the mission using the print() function.
-#Input Handling: Use the input() function to prompt the user and .lower() to convert input to lowercase to handle variations in user input (e.g., "Left" vs "left").
-#Branching Paths (if/elif/else):
-#Decision 1: Ask user to go "left" or "right".
-#If "right", print "Fall into a hole. Game over." and end the game.
-#If "left", proceed to Decision 2.
-#Decision 2: Ask user to "swim" or "wait" at the lake.
-#If "swim", print "Attacked by trout. Game over.".
-#If "wait", proceed to Decision 3.
-#Decision 3: Ask user to choose one of three doors: "red", "yellow", or "blue".
-#If "red", print "Burned by fire. Game over.".
-#If "blue", print "Eaten by beasts. Game over.".
+
 import random
 
 print('''
